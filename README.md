@@ -17,7 +17,7 @@ Stats and my love for football is what made me pick [this dataset](https://www.k
 
 # Installation
 
-You need python and jupyter to run the notebook, you also have to install the pandas library 
+You need python and jupyter to run the notebook, you also have to install the pandas library, as well as seaborn and Matplotlib
 
 # Project files
 
